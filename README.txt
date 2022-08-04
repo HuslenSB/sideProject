@@ -1,4 +1,4 @@
-Started the project 25-07-2022.
+Started the project 25/07/2022 till 27/07/2022 ( on vacation )
 The app is build from the perspective to add more card games, and variants of each card game.
 
 - Deck consists of cards.
